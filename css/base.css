@@ -1,0 +1,29 @@
+@font-face{
+    font-family: "Inter";
+    font-weight:  normal;
+    font-style: normal;
+}
+
+:root{
+
+    --color-blue: 2C3E50;
+    --color-light-blue: 2980B9;
+    --color-background-white: ECF0F1;
+
+    --font-family: "Inter";
+    --font-size-h1: 36px;
+    --font-size-h2: 30px;
+    --font-size-p: 24px;
+    --font-size-sidebar: 24px;
+    --font-size-menu: 24px;
+
+
+    --width: 1440px;
+    --width-sidebar: 440px;
+    --width-main: 1000px;
+    --height-header: 150px;
+    --height-menu: 250px;
+    --height-footer: 150px;
+    --img: 281px;
+    --padding-left: 50px;
+}

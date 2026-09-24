@@ -1,0 +1,42 @@
+@import url(base.css);
+@import url(reset.css);
+
+
+ body{
+    margin: auto;
+    max-width: -var(--width);
+ }
+.container{
+    width: -var(--width);
+    background-color: -var(--color-background-white);
+    color: black;
+    font-family: -var(--font-family);
+    font-size: -var(--font-size-p);
+}
+
+.header{
+    height: -var(--height-header);
+    background-color: -var(--color-blue);
+}
+
+.menu{
+    height: -var(--height-menu);
+    background-color: -var(--color-light-blue);
+}
+
+.sidebar{
+    width: -var(--width-sidebar);
+    background-color: -var(--color-background-white);
+    float: right;
+    clear: both;
+}
+
+.content{
+    width: -var(--width-main);
+    background-color: -var(--color-background-white);
+}
+
+.footer{
+    height: -var(--height-footer);
+    background-color: -var(--color-background-white);
+}
