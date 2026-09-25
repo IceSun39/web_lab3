@@ -6,9 +6,9 @@
 
 :root{
 
-    --color-blue: 2C3E50;
-    --color-light-blue: 2980B9;
-    --color-background-white: ECF0F1;
+    --color-blue: #2C3E50;
+    --color-light-blue: #2980B9;
+    --color-background-white: #ECF0F1;
 
     --font-family: "Inter";
     --font-size-h1: 36px;
@@ -22,7 +22,7 @@
     --width-sidebar: 440px;
     --width-main: 1000px;
     --height-header: 150px;
-    --height-menu: 250px;
+    --height-menu: 150px;
     --height-footer: 150px;
     --img: 281px;
     --padding-left: 50px;
